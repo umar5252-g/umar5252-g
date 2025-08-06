@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar</h1>
-<h3 align="center">Hi! i am Umar a 3rd year Computer Science student at the Islamia Collage University Peshawar.</h3>
+<h3 align="center">### I'm a Computer Science student passionate about building interactive web apps and solving real-world problems with code</h3>
 
 - 🔭 I’m currently working on a **personal website**
 
