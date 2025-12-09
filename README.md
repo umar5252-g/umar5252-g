@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umar</h1>
 <h3 align="center">### I'm a Computer Science student passionate about building interactive web apps and solving real-world problems with code</h3>
 
-- 🔭 I’m currently working on a **personal website**
-
 - 👯 I’m looking to collaborate on **any beginner friendly project**
 
 - 📫 How to reach me **mromertariq@gmail.com**
