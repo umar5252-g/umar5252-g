@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **any beginner friendly project**
 
-- 💬 Ask me about **my university and work experience**
-
 - 📫 How to reach me **mromertariq@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
