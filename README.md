@@ -12,11 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=umar5252-g&theme=dark&hide_border=false)<br/>
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=umar5252-g&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/umar_khan_52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umar_khan_52" height="30" width="40" /></a>
