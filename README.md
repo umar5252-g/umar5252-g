@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=umar5252-g&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=umar5252-g&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
