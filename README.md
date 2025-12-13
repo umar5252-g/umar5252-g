@@ -13,8 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umar5252-g&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=umar5252-g&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h3 align="left">Connect with me:</h3>
