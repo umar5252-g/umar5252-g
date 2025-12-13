@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umar</h1>
 <h3 align="center">### I'm a Computer Science student passionate about building interactive web apps and solving real-world problems with code</h3>
 
-- 👯 I’m looking to collaborate on **any beginner friendly project**
-
-- 📫 How to reach me **mromertariq@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
-
-
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=umar5252-g&theme=dark&hide_border=false)<br/>
 
